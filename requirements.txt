@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+networkx
+scikit-learn
+
+# Jupyter
+jupyterlab
+
+# Deep learning + GNNs
+torch
+torch-geometric
+torchinfo
+
